@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "tomorrow tonight",
+  "base_artist": "Loote",
+  "createdAt": "2026-02-22T18:59:20.699536Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "tomorrow tonight",
+      "artist": "Loote",
+      "has_synced": true,
+      "path": "select/01_tomorrow_tonight_Loote.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "tomorrow tonight",
+      "artist": "Loote",
+      "has_synced": true,
+      "path": "select/02_tomorrow_tonight_Loote.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomorrow & Tonight",
+      "artist": "Atomic Kitten",
+      "has_synced": true,
+      "path": "select/03_Tomorrow_&_Tonight_Atomic_Kitten.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomorrow, Tonight",
+      "artist": "Michael Sweet",
+      "has_synced": false,
+      "path": "select/04_Tomorrow,_Tonight_Michael_Sweet.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Let's Start) Tomorrow Tonight (SMASH Cast Version) [feat. Leslie Odom, Jr. with Christian Borle, Wesley Taylor & Savannah Wise]",
+      "artist": "SMASH Cast",
+      "has_synced": true,
+      "path": "select/05_(Let's_Start)_Tomorrow_Tonight_(SMASH_Cast_Version)_[feat._Leslie_Odom,_Jr._with_SMASH_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Let's Start) Tomorrow Tonight (SMASH Cast Version) [feat. Leslie Odom, Jr.]",
+      "artist": "SMASH Cast",
+      "has_synced": true,
+      "path": "select/06_(Let's_Start)_Tomorrow_Tonight_(SMASH_Cast_Version)_[feat._Leslie_Odom,_Jr.]_SMASH_Cast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tomorrow Tonight",
+      "artist": "Craig Campbell",
+      "has_synced": true,
+      "path": "select/07_Tomorrow_Tonight_Craig_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tomorrow & Tonight",
+      "artist": "Atomic Kitten",
+      "has_synced": false,
+      "path": "select/08_Tomorrow_&_Tonight_Atomic_Kitten.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Let's Start) Tomorrow Tonight",
+      "artist": "Leslie Odom, Jr., Christian Borle, Wesley Taylor & Savannah Wise",
+      "has_synced": true,
+      "path": "select/09_(Let's_Start)_Tomorrow_Tonight_Leslie_Odom,_Jr.,_Christian_Borle,_Wesley_Taylor_&_Savannah_Wise.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "tomorrow tonight (Audio)",
+      "artist": "Loote",
+      "has_synced": true,
+      "path": "select/10_tomorrow_tonight_(Audio)_Loote.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tomorrow, Tonight",
+      "artist": "Chris Housman",
+      "has_synced": true,
+      "path": "select/11_Tomorrow,_Tonight_Chris_Housman.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tomorrow Tonight",
+      "artist": "Craig Campbell",
+      "has_synced": true,
+      "path": "select/12_Tomorrow_Tonight_Craig_Campbell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tomorrow tonight",
+      "artist": "Loote",
+      "has_synced": false,
+      "path": "select/pl_01_tomorrow_tonight_Loote.txt"
+    }
+  ]
+}
